@@ -1,2 +1,3 @@
 # Prueba
-Github prueba
+Descripcion del proyecto creado con github
+
